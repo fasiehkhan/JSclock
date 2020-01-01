@@ -9,12 +9,12 @@
   }
 
   .clock{
-      width:292;
-      height: 292;
+      width:255;
+      height: 255;
       background-color: lightblue;
       border-radius: 50%;
       border: 2px solid black;
-      position: absolute;
+      position: centre;
   }
 
   .clock .number{
