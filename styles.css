@@ -1,6 +1,6 @@
  
 /* On screens that are 1360px or less, set the background color to blue */
-@media screen and (max-width: 1360px) {
+@media screen and (max-width: 800px) {
   
   body{
     background: linear-gradient(#e66465, #9198e5);
